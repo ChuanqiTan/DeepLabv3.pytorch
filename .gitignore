@@ -1,0 +1,6 @@
+*.pyc
+*.pth
+
+data/VOCdevkit
+data/ourdata
+data/val
